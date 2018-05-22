@@ -58,7 +58,6 @@
   + **python manage.py migrate**
 + 启动Django(python manage.py runserver)
 ![](https://github.com/CaryXiang/Information-Analysis-system-of-IT-Industry-requirement-based-on-Web-crawler/blob/master/imgs/index.png)
-![](https://github.com/CaryXiang/Information-Analysis-system-of-IT-Industry-requirement-based-on-Web-crawler/blob/master/imgs/index1.png)
 ![](https://github.com/CaryXiang/Information-Analysis-system-of-IT-Industry-requirement-based-on-Web-crawler/blob/master/imgs/index2.png)
 ![](https://github.com/CaryXiang/Information-Analysis-system-of-IT-Industry-requirement-based-on-Web-crawler/blob/master/imgs/display.png)
 ![](https://github.com/CaryXiang/Information-Analysis-system-of-IT-Industry-requirement-based-on-Web-crawler/blob/master/imgs/search.png)
