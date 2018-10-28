@@ -1,7 +1,7 @@
 # 基于Web爬虫的IT行业需求信息分析系统
 ------
-
-临近毕业，找工作不易，所以对行业内的招聘信息做了个简单的分析，主要面向学历、城市、工作要求关键字等进行数据分析，并将其结果展示在Web端。该项目主要采用Python27、Django、Scrapy、Redis、Celery、Mysql、jieba分词、echarts、Bootstrap、jQuery等，其中Redis、Celery主要将Scrapy框架和Django框架结合，起到每隔一段时间更新相关分析图。
+## 此项目不在更新
+行业内的招聘信息做了个简单的分析，主要面向学历、城市、工作要求关键字等进行数据分析，并将其结果展示在Web端。该项目主要采用Python27、Django、Scrapy、Redis、Celery、Mysql、jieba分词、echarts、Bootstrap、jQuery等，其中Redis、Celery主要将Scrapy框架和Django框架结合，起到每隔一段时间更新相关分析图。
 
 
 ## 环境依赖
